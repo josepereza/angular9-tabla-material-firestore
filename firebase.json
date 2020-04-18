@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "mitabla-angular",
+      "public": "dist/mitabla-angular",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-66c8c": {
+      "hosting": {
+        "mitabla-angular": [
+          "login-66c8c"
+        ]
+      }
+    }
+  }
+}
